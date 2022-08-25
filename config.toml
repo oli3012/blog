@@ -1,4 +1,4 @@
-baseURL = "https://oli3012.github.io/"
+baseURL = "https://oli3012.github.io/blog-hugo/"
 languageCode = "en-us"
 title = "oli3012 blog"
 theme = "m10c"
